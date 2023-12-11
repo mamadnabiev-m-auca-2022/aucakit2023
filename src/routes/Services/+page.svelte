@@ -1,26 +1,30 @@
-    <header>
-        <h1>Services</h1>
+   <header>
+        <h1>Our Services</h1>
     </header>
 
     <section>
-        <h2>Who We Are</h2>
-        <p>We are a passionate team dedicated to providing high-quality laptops that meet the diverse needs of professionals, students, and tech enthusiasts.</p>
+        <h2>Professional Laptop Selection</h2>
+        <p>Discover our carefully curated collection of high-performance laptops, tailored to meet the needs of professionals.</p>
     </section>
 
     <section>
-        <h2>Our Mission</h2>
-        <p>Our mission is to empower individuals with cutting-edge technology, offering a curated selection of laptops designed for performance, reliability, and style.</p>
+        <h2>Affordable Student Laptops</h2>
+        <p>Explore our range of affordable and reliable laptops designed to support students in their academic journey.</p>
     </section>
 
     <section>
-        <h2>Why Choose Us?</h2>
-        <p>At our core, we prioritize customer satisfaction, offering personalized service and a commitment to delivering laptops that exceed expectations.</p>
+        <h2>Tech Enthusiast Favorites</h2>
+        <p>For tech enthusiasts, we offer a selection of high-quality laptops that cater to your specific requirements and passion for technology.</p>
     </section>
 
     <section>
-        <h2>Meet the Team</h2>
-        <p>Our team is comprised of experienced professionals who share a common goal: to enhance your computing experience. Meet the faces behind our brand!</p>
-        <img src="team-photo.jpg" alt="Team Photo">
+        <h2>Customized Solutions</h2>
+        <p>We provide personalized solutions, assisting you in finding the perfect laptop that aligns with your unique needs and preferences.</p>
+    </section>
+
+    <section>
+        <h2>Exceptional Customer Service</h2>
+        <p>Experience our commitment to customer satisfaction with dedicated support and assistance throughout your laptop purchase journey.</p>
     </section>
 
     <footer>
@@ -44,6 +48,15 @@
 
         p {
             margin-bottom: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
         }
 
         img {
